@@ -47,7 +47,7 @@ namespace WS_CITAS_MEDICAS
                         Description = "Copia y pega el Token en el campo 'Value:' así: Bearer {Token JWT}."
                     }
                 );
-
+                
             //    services.AddControllers().AddNewtonsoftJson(options =>
             //    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
             //);
